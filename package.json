@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasyapeteichuk/html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasyapeteichuk/html/issues"
+  },
+  "homepage": "https://github.com/vasyapeteichuk/html#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
