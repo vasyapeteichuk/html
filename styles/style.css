@@ -42,18 +42,6 @@ body{
   font-size: 20px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /*Медія*/
 
 /*Логотип та Меню*/
@@ -209,30 +197,12 @@ body{
   background-color: #830000;
  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
  * Animated CSS button
  * Copyright Alexander Bodin 2019-09-07
  *
  * Useage: .class {@import button($button-size, $hue, $sat);}
  */
-
-
 
 .animated-button1 {
   padding: 20px 40px 20px 40px;
